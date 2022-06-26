@@ -1,10 +1,10 @@
 # Easy AdminLTE integration with Laravel
 
-##Packages added
+## Packages added
 - DebugBar : ```composer require barryvdh/laravel-debugbar --dev```
 
-##Updates
-
+## Updates
+- config/adminlte.php : update ```title``` to ```env('APP_NAME')```
 
 ##Original repository :
 
