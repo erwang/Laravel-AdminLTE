@@ -5,6 +5,7 @@
 
 ## Updates
 - config/adminlte.php : update ```title``` to ```env('APP_NAME')```
+- add ```layout/page``` component
 
 ##Original repository :
 

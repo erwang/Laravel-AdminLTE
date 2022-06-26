@@ -36,6 +36,7 @@ class AdminLteServiceProvider extends BaseServiceProvider
     protected $layoutComponents = [
         'navbar-darkmode-widget' => Layout\NavbarDarkmodeWidget::class,
         'navbar-notification' => Layout\NavbarNotification::class,
+        'page' => Layout\Page::class,
     ];
 
     /**
